@@ -1,3 +1,3 @@
 # test
 
-![a](https://docs.google.com/viewer?url=https://zakolesnik.ru/masters/1_semestr/AI_LAB1.pdf)
+![image](https://user-images.githubusercontent.com/22599632/133001748-3c2918a8-88c9-44a5-af34-8a6da7de3b08.png)
