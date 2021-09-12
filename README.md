@@ -1,3 +1,3 @@
 # test
 
-![a](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/degoes-consulting/lambdaconf-2015/master/speakers/jdegoes/intro-purescript/presentation.pdf)
+![a](https://docs.google.com/viewer?url=https://zakolesnik.ru/masters/1_semestr/AI_LAB1.pdf)
